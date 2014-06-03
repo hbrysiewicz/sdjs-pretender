@@ -1,17 +1,14 @@
 {
-  "name": "reveal.js",
-  "version": "2.6.2",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://lab.hakim.se/reveal-js",
-  "subdomain": "revealjs",
+  "name": "sdjs-fakeit",
+  "version": "1.0.0",
   "scripts": {
     "test": "grunt test",
     "start": ""
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Heather Brysiewicz",
+    "email": "h.a.brysiewicz@gmail.com",
+    "web": "http://hbrysiewicz.github.io"
   },
   "repository": {
     "type": "git",
